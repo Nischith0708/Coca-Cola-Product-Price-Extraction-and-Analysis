@@ -1,10 +1,10 @@
 # Project Report: Infinite Analytics Company - Amazon Web Scraping for Product Prices
 
 
-**Introduction**
+**Introduction:**
 In this project, we aimed to automate the process of web scraping product prices from Amazon's website. The objective was to create a tool that takes a list of product names as input, navigates to Amazon's search page, extracts the prices of the top 4 results, and provides the most accurate product price based on fuzzy matching, handling spelling mistakes, and ensuring the lowest price in case of multiple matches. The project was developed using VS Code and leveraged Python libraries such as Selenium, Pandas, and FuzzyWuzzy.
 
-**Project Scope**
+**Project Scope:**
 The primary focus of this project was to build an efficient web scraping tool for Amazon. Additionally, we expanded the data extraction capabilities to include liquor websites and Mondelez products, showcasing Infinite Analytics' AI platform's versatility in handling various product categories.
 
 1. Design a web scraping tool to fetch product prices from Amazon.
@@ -33,7 +33,7 @@ The tool compared the fuzzy match scores of the product names in the search resu
 We implemented a log file to keep track of the product names, their matched results, and the extracted prices. This allowed us to monitor the tool's performance and analyze any discrepancies in the results.
 
 
-**Conclusion**
+**Conclusion:**
 
 The Amazon web scraping project successfully demonstrated an automated and efficient approach to extracting product prices from Amazon's website. By leveraging the power of Selenium, Pandas, and FuzzyWuzzy, the tool achieved accurate and reliable results, even in the presence of variations in product names and search results.
 
