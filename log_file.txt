@@ -1,0 +1,23 @@
+Amazon Japan,Oi-ocha_600ml,nan%
+Amazon Japan,Oi-ocha_600ml,nan%
+Amazon Japan,Iyemon_600ml,inf%
+Amazon Japan,Ayataka_525ml,inf%
+Amazon Japan,Ayataka_chabano_amami_525ml,inf%
+Qoo10,Oi-ocha_600ml,nan%
+Qoo10,Iyemon_600ml,nan%
+Qoo10,Ayataka_525ml,nan%
+Qoo10,Ayataka_chabano_amami_525ml,nan%
+Rakuten,Oi-ocha_600ml,nan%
+Rakuten,Iyemon_600ml,nan%
+Rakuten,Ayataka_525ml,nan%
+Rakuten,Ayataka_chabano_amami_525ml,nan%
+Rakuten,Namacha_600ml,nan%
+Wowma!,Oi-ocha_600ml,nan%
+Wowma!,Iyemon_600ml,nan%
+Wowma!,Ayataka_525ml,nan%
+Wowma!,Namacha_600ml,nan%
+Yahoo! Shopping,Oi-ocha_600ml,nan%
+Yahoo! Shopping,Iyemon_600ml,nan%
+Yahoo! Shopping,Ayataka_525ml,nan%
+Yahoo! Shopping,Ayataka_chabano_amami_525ml,nan%
+Yahoo! Shopping,Namacha_600ml,nan%
